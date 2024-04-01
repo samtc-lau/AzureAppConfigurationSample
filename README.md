@@ -1,0 +1,1 @@
+This is a sample .NET 8 Worker Service with Azure App Configuration set up. More info in https://sam-lau.com/azure-app-configuration-with-azure-key-vault-and-dynamic-configuration-in-net-8-application
